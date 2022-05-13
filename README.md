@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @GireeshItigi
-- 👀 I’m interested in Full stack Web development.
-- 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on intersting web development projects.
-- 📫 How to reach me ...
+- 👀 I’m interested in web3 
+- 🌱 I’m currently learning Solidity and Reactjs
+- 💞️ I’m looking to collaborate on intersting web3  projects.
+- 📫 How to reach me 
+- 
 
 <!---
 GireeshItigi/GireeshItigi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
